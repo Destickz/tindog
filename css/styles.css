@@ -107,6 +107,13 @@ right: 30%;
     line-height: 1.5;
   }
 
+
+  p {
+    color: #8f8f8f;
+    font-size: 1.3rem;
+  }
+
+
   .navbar-brand {
     font-family: Ubuntu;
     font-size: 2rem;
@@ -151,6 +158,12 @@ right: 30%;
   .download-botton {
     margin: 3% 2% 3% 0;
   }
+
+#social-media-handle.social-icon {
+text-align: center;
+margin-left: 30px;
+margin-right: 20px;
+}
 
 }
 
