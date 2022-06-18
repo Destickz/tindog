@@ -97,7 +97,7 @@ right: 30%;
   }
 
   .big-heading {
-    font-size: 2rem;
+    font-size: 2.5rem;
     line-height: 1.5;
     font-weight: 900;
   }
@@ -109,7 +109,7 @@ right: 30%;
 
   .navbar-brand {
     font-family: Ubuntu;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
   }
 
@@ -118,8 +118,11 @@ right: 30%;
   }
 
   .nav-link {
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-family: 'Montserrat';
+  margin: 8%;
+
+
   }
 
   .feature-title {
